@@ -37,19 +37,19 @@ A Python-based smart attendance system that automatically detects and recognizes
 ---
 
 ## 📁 Project Structure
-Smart-Attendance-Using-Facial-Recognition/
--├── assets/
--│ └── screenshots/
--├── attendance/
--│ └── attendance.csv
--├── dataset/
--│ └── [stored user images]
--├── trainer/
--│ └── trained_model.yml
--├── main.py
--├── train_model.py
--├── requirements.txt
+Smart-Attendance-Using-Facial-Recognition/  
+├── assets/  
+│ └── screenshots/  
+├── attendance/  
+│ └── attendance.csv  
+├── dataset/  
+│ └── [stored user images]  
+├── trainer/  
+│ └── trained_model.yml  
+├── main.py  
+├── train_model.py  
+├── requirements.txt  
 ---
--🧑‍💻 Author
--Srinivas Gaddam
--gmail:gaddamsrinivas011@gmail.com
+🧑‍💻 Author  
+Srinivas Gaddam  
+gmail:gaddamsrinivas011@gmail.com
